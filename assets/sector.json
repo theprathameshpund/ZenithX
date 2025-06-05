@@ -1,0 +1,80 @@
+{
+  "sectors": [
+    {
+      "sector name": "IT",
+      "stocks": [
+        {"name": "Wipro Limited", "symbol": "WIPRO.NS"},
+        {"name": "Google", "symbol": "GOOGL"},
+        {"name": "Tata Elxsi Limited", "symbol": "TATAELXSI.NS"},
+        {"name": "Zensar Technologies Limited", "symbol": "ZENSARTECH.NS"},
+        {"name": "Tata Consultancy Services Limited", "symbol": "TCS.NS"}
+      ]
+    },
+
+    {
+      "sector name": "Automobiles",
+      "stocks": [
+        {"name": "Maruti Suzuki India Ltd.", "symbol": "MARUTI.NS"},
+        {"name": "Mahindra & Mahindra Ltd.", "symbol": "M&M.NS"},
+        {"name": "Tata Motors Ltd.", "symbol": "TATAMOTORS.NS"},
+        {"name": "TVS Motor Company Ltd.", "symbol": "TVSMOTOR.NS"},
+        {"name": "Eicher Motors Ltd.", "symbol": "EICHERMOT.NS"},
+        {"name": "Hero MotoCorp Ltd.", "symbol": "HEROMOTOCO.NS"},
+        {"name": "Ashok Leyland Ltd.", "symbol": "ASHOKLEY.NS"},
+        {"name": "Escorts Kubota Ltd.", "symbol": "ESCORTS.NS"}
+
+      ]
+    },
+
+
+    {
+      "sector name": "Defence",
+      "stocks": [
+        {"name": "Hindustan Aeronautics Limited", "symbol": "HAL.NS"},
+        {"name": "Bharat Electronics Limited", "symbol": "BEL.NS"},
+        {"name": "Bharat Dynamics Limited", "symbol": "BDL.NS"},
+        {"name": "Paras Defence and Space Technologies Limited", "symbol": "PARAS.NS"}
+
+      ]
+    },
+
+
+    {
+      "sector name": "Pharmaceuticals",
+      "stocks": [
+        {"name": "Divi's Laboratories Limited", "symbol": "DIVISLAB.NS"},
+        {"name": "Cipla Limited", "symbol": "CIPLA.NS"},
+        {"name": "Torrent Pharmaceuticals Limited", "symbol": "TORNTPHARM.NS"},
+        {"name": "Dr. Reddy's Laboratories Limited", "symbol": "DRREDDY.NS"},
+        {"name": "Mankind Pharma Limited", "symbol": "MANKIND.NS"},
+        {"name": "Zydus Lifesciences Limited", "symbol": "ZYDUSLIFE.NS"},
+        {"name": "Lupin Limited", "symbol": "LUPIN.NS"},
+        {"name": "Aurobindo Pharma Limited", "symbol": "AUROPHARMA.NS"},
+        {"name": "Alkem Laboratories Limited", "symbol": "ALKEM.NS"},
+        {"name": "Glenmark Pharmaceuticals Limited", "symbol": "GLENMARK.NS"},
+        {"name": "GlaxoSmithKline Pharmaceuticals Limited", "symbol": "GLAXO.NS"},
+        {"name": "Ajanta Pharma Limited", "symbol": "AJANTPHARM.NS"}
+
+      ]
+    },
+
+
+
+    {
+      "sector name": "Banking",
+      "stocks": [
+
+        {"name": "HDFC Bank Limited","symbol": "HDFCBANK.NS"},
+        {"name": "ICICI Bank Limited", "symbol": "ICICIBANK.NS"},
+        {"name": "State Bank of India", "symbol": "SBIN.NS"},
+        {"name": "Kotak Mahindra Bank Limited", "symbol": "KOTAKBANK.NS"},
+        {"name": "Axis Bank Limited", "symbol": "AXISBANK.NS"},
+        {"name": "Bank of Baroda", "symbol": "BANKBARODA.NS"},
+        {"name": "Punjab National Bank", "symbol": "PNB.NS"},
+        {"name": "IndusInd Bank Limited", "symbol": "INDUSINDBK.NS"},
+        {"name": "Indian Overseas Bank", "symbol": "IOB.NS"},
+        {"name": "Canara Bank", "symbol": "CANBK.NS"}
+      ]
+    }
+  ]
+}

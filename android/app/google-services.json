@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1033186274150",
+    "project_id": "zenithx-95be6",
+    "storage_bucket": "zenithx-95be6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033186274150:android:81751eb1c8976d94c736a7",
+        "android_client_info": {
+          "package_name": "com.example.version2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFaOShiabtIQ6D4nnIHOd0YunWS8hvsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033186274150:android:d6f3aad77a57c17ac736a7",
+        "android_client_info": {
+          "package_name": "com.zenithx.zenithx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFaOShiabtIQ6D4nnIHOd0YunWS8hvsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033186274150:android:36f4e6917d65c25ac736a7",
+        "android_client_info": {
+          "package_name": "com.zenithx.zenithx1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFaOShiabtIQ6D4nnIHOd0YunWS8hvsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
