@@ -28,3 +28,18 @@ Download ZenithX from the Google Play Store and start your investment journey to
 To get started with the source code:
 
 1. Clone this repository:
+2. Open the project in your preferred IDE (e.g., Android Studio or VS Code).
+3. Follow the Flutter setup instructions to run the app on your device or emulator.
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests for improvements.
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+*ZenithX empowers you to make smarter investment decisions through insightful analysis and timely market information.*
+
