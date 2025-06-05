@@ -43,6 +43,7 @@
 
 Download ZenithX from the Google Play Store and start your investment journey today:  
 [ZenithX on Google Play Store](https://play.google.com/store/apps/details?id=com.zenithx.zenithx)
+https://play.google.com/store/apps/details?id=com.zenithx.zenithx
 
 ---
 
